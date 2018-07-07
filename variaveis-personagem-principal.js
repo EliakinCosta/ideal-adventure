@@ -19,12 +19,12 @@ let magica_personagem_1 = $('#magica_personagem_1');
 */
 forca_personagem_1.css('width', '10%');
 carisma_personagem_1.css('width', '20%');
-sabedoria_personagem_1.css('width', '30%');
+sabedoria_personagem_1.css('width', '80%');
 velocidade_personagem_1.css('width', '40%');
 regeneracao_personagem_1.css('width', '50%');
 magica_personagem_1.css('width', '90%');
 
-tipo_personagem1_1.html('Elfo');
-tipo_personagem1_2.html('Venenoso');
-tipo_personagem1_3.html('Fantasma');
+tipo_personagem1_1.html('Mago');
+tipo_personagem1_2.html('Inteligente');
+tipo_personagem1_3.html('Fogo');
 tipo_personagem1_4.html('Sombrio');
