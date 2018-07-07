@@ -33,7 +33,7 @@ let magica_personagem_2 = $('#magica_personagem_2');
 */
 tipo_personagem2_1.html('Vampiro');
 tipo_personagem2_2.html('Humano Assassino');
-tipo_personagem2_3.html('Fantasma');
+tipo_personagem2_3.html('arvore');
 tipo_personagem2_4.html('Zombie');
 
 forca_personagem_2.css('width', '30%');
